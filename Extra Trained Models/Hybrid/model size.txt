@@ -1,0 +1,4 @@
+corn 464mb
+potato 426mb
+rice 431mb
+wheat 684mb
